@@ -23,5 +23,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-proof-section-challenge-9W2vczFq01)
-- Live Site URL: [Add live site URL here](https://hummingcoder.github.io/Social-proof-section-challenge/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/social-proof-section-challenge-9W2vczFq01)
+- Live Site URL: [here](https://hummingcoder.github.io/Social-proof-section-challenge/)
